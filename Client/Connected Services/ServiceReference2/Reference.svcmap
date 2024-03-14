@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="8e9958c3-fb0b-487d-adba-737835096390" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/EventManagementSystem_Service/EventService1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="19aeb388-269b-4358-8a71-79b6a22078a5" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/EventManagementSystem_Service/EventService1/?disco" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="dd6b8abc-12a3-424c-ba83-a7e72af2f8e4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/EventManagementSystem_Service/EventService1/?xsd=xsd2" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="c06ab776-f636-4015-8176-3a3f3227b373" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/EventManagementSystem_Service/EventService1/?xsd=xsd1" />
+    <MetadataFile FileName="EventService.wsdl" MetadataType="Wsdl" ID="2216c481-f5e3-40e5-84fe-5393d71e3596" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/EventManagementSystem_Service/EventService1/?wsdl" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="e163be1c-b281-4310-8909-8e46fa542467" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/EventManagementSystem_Service/EventService1/?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
